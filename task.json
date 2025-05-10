@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Estudar typescript",
+    "status": "done",
+    "createdAt": "2025-05-10T01:00:16.510Z",
+    "updatedAt": "2025-05-10T01:01:45.688Z"
+  },
+  {
+    "id": 3,
+    "description": "Tomar Banho",
+    "status": "todo",
+    "createdAt": "2025-05-10T01:00:35.871Z",
+    "updatedAt": "2025-05-10T01:00:35.872Z"
+  },
+  {
+    "id": 4,
+    "description": "Estudar TypeScript + Node.JS",
+    "status": "todo",
+    "createdAt": "2025-05-10T01:03:55.610Z",
+    "updatedAt": "2025-05-10T01:03:55.610Z"
+  }
+]
